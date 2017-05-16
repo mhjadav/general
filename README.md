@@ -20,5 +20,5 @@ Set RD/WR permission for external hard disk
 
 open /Volumes/VolumeName
 
-Unmount
+# To Unmount
 diskutil unmount /Volumes/VolumeName
