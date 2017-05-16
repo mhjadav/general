@@ -20,4 +20,5 @@ Set RD/WR permission for external hard disk
 
 open /Volumes/VolumeName
 
-
+#Unmount
+diskutil unmount /Volumes/Mahipat
