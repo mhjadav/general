@@ -18,7 +18,7 @@ Set RD/WR permission for external hard disk
 
 #To open 
 
-open /Volumes/Volumename
+open /Volumes/VolumeName
 
 
 Or you can use batch file in this directory to mount and unmount
